@@ -20,7 +20,7 @@ public class SearchBinaryTree {
       public static boolean flag = false;  
   
       public SearchBinaryTree(){  
-        root = null;  
+         root = null;  
       }  
   
       //searchNode() will search for the particular node in the binary tree  
